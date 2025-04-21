@@ -1,0 +1,222 @@
+[
+    {
+        "questionNumber": 1,
+        "questionText": "What is the capital of Italy?",
+        "answerOptions": [
+            "Rome",
+            "Venice",
+            "Milan",
+            "Florence"
+        ],
+        "correctAnswer": "Rome"
+    },
+    {
+        "questionNumber": 2,
+        "questionText": "What is the smallest prime number?",
+        "answerOptions": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correctAnswer": "2"
+    },
+    {
+        "questionNumber": 3,
+        "questionText": "Which element has the chemical symbol 'O'?",
+        "answerOptions": [
+            "Osmium",
+            "Oxygen",
+            "Gold",
+            "Silver"
+        ],
+        "correctAnswer": "Oxygen"
+    },
+    {
+        "questionNumber": 4,
+        "questionText": "In which year did the Titanic sink?",
+        "answerOptions": [
+            "1905",
+            "1912",
+            "1914",
+            "1920"
+        ],
+        "correctAnswer": "1912"
+    },
+    {
+        "questionNumber": 5,
+        "questionText": "What is the largest mammal in the world?",
+        "answerOptions": [
+            "Elephant",
+            "Blue Whale",
+            "Giraffe",
+            "Great White Shark"
+        ],
+        "correctAnswer": "Blue Whale"
+    },
+    {
+        "questionNumber": 6,
+        "questionText": "Who painted the Mona Lisa?",
+        "answerOptions": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Claude Monet"
+        ],
+        "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+        "questionNumber": 7,
+        "questionText": "What is the boiling point of water in degrees Celsius?",
+        "answerOptions": [
+            "90",
+            "100",
+            "110",
+            "120"
+        ],
+        "correctAnswer": "100"
+    },
+    {
+        "questionNumber": 8,
+        "questionText": "Which planet is known as the Red Planet?",
+        "answerOptions": [
+            "Earth",
+            "Venus",
+            "Mars",
+            "Jupiter"
+        ],
+        "correctAnswer": "Mars"
+    },
+    {
+        "questionNumber": 9,
+        "questionText": "What is the currency of Japan?",
+        "answerOptions": [
+            "Yen",
+            "Won",
+            "Dollar",
+            "Euro"
+        ],
+        "correctAnswer": "Yen"
+    },
+    {
+        "questionNumber": 10,
+        "questionText": "What is the formula for calculating the area of a circle?",
+        "answerOptions": [
+            "πr^2",
+            "2πr",
+            "πd",
+            "4πr^2"
+        ],
+        "correctAnswer": "πr^2"
+    },
+    {
+        "questionNumber": 11,
+        "questionText": "Which gas do plants absorb from the atmosphere?",
+        "answerOptions": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Hydrogen"
+        ],
+        "correctAnswer": "Carbon Dioxide"
+    },
+    {
+        "questionNumber": 12,
+        "questionText": "What is the hardest natural substance on Earth?",
+        "answerOptions": [
+            "Gold",
+            "Iron",
+            "Diamond",
+            "Quartz"
+        ],
+        "correctAnswer": "Diamond"
+    },
+    {
+        "questionNumber": 13,
+        "questionText": "Who discovered penicillin?",
+        "answerOptions": [
+            "Louis Pasteur",
+            "Alexander Fleming",
+            "Marie Curie",
+            "Isaac Newton"
+        ],
+        "correctAnswer": "Alexander Fleming"
+    },
+    {
+        "questionNumber": 14,
+        "questionText": "What is the largest ocean on Earth?",
+        "answerOptions": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "correctAnswer": "Pacific Ocean"
+    },
+    {
+        "questionNumber": 15,
+        "questionText": "What is the main ingredient in guacamole?",
+        "answerOptions": [
+            "Tomato",
+            "Avocado",
+            "Pepper",
+            "Onion"
+        ],
+        "correctAnswer": "Avocado"
+    },
+    {
+        "questionNumber": 16,
+        "questionText": "Which country is known as the Land of the Rising Sun?",
+        "answerOptions": [
+            "China",
+            "Japan",
+            "Thailand",
+            "South Korea"
+        ],
+        "correctAnswer": "Japan"
+    },
+    {
+        "questionNumber": 17,
+        "questionText": "What is the capital of Australia?",
+        "answerOptions": [
+            "Sydney",
+            "Canberra",
+            "Melbourne",
+            "Brisbane"
+        ],
+        "correctAnswer": "Canberra"
+    },
+    {
+        "questionNumber": 18,
+        "questionText": "Which sport is known as 'the beautiful game'?",
+        "answerOptions": [
+            "Basketball",
+            "Cricket",
+            "Soccer",
+            "Rugby"
+        ],
+        "correctAnswer": "Soccer"
+    },
+    {
+        "questionNumber": 19,
+        "questionText": "Which organ is responsible for pumping blood throughout the body?",
+        "answerOptions": [
+            "Liver",
+            "Lungs",
+            "Heart",
+            "Kidneys"
+        ],
+        "correctAnswer": "Heart"
+    },
+    {
+        "questionNumber": 20,
+        "questionText": "What is the primary language spoken in Brazil?",
+        "answerOptions": [
+            "Spanish",
+            "Portuguese",
+            "English",
+            "French"
+        ],
+        "correctAnswer": "Portuguese"
+    }
+]

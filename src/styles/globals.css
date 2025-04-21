@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+:root {
+  --background: #1e1e1e;
+  --foreground: #ffffff;
+  --color-green-100: #c1ff1c;
+  --color-green-200: #9be931;
+  --color-green-300: #78d23d;
+  --color-green-400: #58bb44;
+  --color-green-500: #3aa346;
+  --color-green-600: #1e8c45;
+  --color-green-700: #007542;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-green-300 {
+  background-color: var(--color-green-300);
+}
+.bg-green-400 {
+  background-color: var(--color-green-400);
+}
+.bg-green-500 {
+  background-color: var(--color-green-500);
+}
+.bg-green-600 {
+  background-color: var(--color-green-600);
+}
+
+.border-green-300 {
+  border-color: var(--color-green-300);
+}
+.border-green-400 {
+  border-color: var(--color-green-400);
+}
+.border-green-500 {
+  border-color: var(--color-green-500);
+}
+.border-green-600 {
+  border-color: var(--color-green-600);
+}
+
+.text-green-300 {
+  color: var(--color-green-300);
+}
+.text-green-400 {
+  color: var(--color-green-400);
+}
+.text-green-500 {
+  color: var(--color-green-500);
+}
+.text-green-600 {
+  color: var(--color-green-600);
+}
